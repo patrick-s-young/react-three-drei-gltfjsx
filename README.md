@@ -30,7 +30,7 @@ Animation can then be addeed to the gltfjsx-generated component with useEffect:
 
 
 ## View In Sandbox
-
+[codesandbox.io/s/react-three-drei-gltfjsx](https://codesandbox.io/s/react-three-drei-gltfjsx-323hsv)
 
 ## Running Locally
 
